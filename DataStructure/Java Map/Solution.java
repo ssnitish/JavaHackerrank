@@ -1,4 +1,4 @@
-// 
+// HashMap is used, to implements phone directory
 
 import java.util.*;
 import java.io.*;
